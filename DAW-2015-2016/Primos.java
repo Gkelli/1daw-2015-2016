@@ -29,5 +29,6 @@ public class Primos {
 			if(num%divisor == 0) return false;	
 		}
 		return true;
+		
 	}
 }
